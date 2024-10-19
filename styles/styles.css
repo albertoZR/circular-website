@@ -50,7 +50,6 @@ h1 span {
 }
 .presentation img {
   width: 40%;
-  display: flexbox;
   float: right;
   margin-top: -32%;
   margin-right: 10%;
